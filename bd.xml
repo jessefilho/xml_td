@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bdtheque>
+    <personnes>
+        <personne id="AScotch">
+            <nom>Arleston</nom>
+            <prenom>Scotch</prenom>
+        </personne>
+        <personne id="DTarquin">
+            <nom>Tarquin</nom>
+            <prenom>Didier</prenom>
+        </personne>
+        <personne id="RSattouf">
+            <nom>Sattouf</nom>
+            <prenom>Riad</prenom>
+        </personne>
+        <personne id="Larcenet">
+            <nom>Larcenet</nom>
+            <prenom>Manu</prenom>
+        </personne>
+        <personne id="JYFerri">
+            <nom>Ferri</nom>
+            <prenom>Jean-Yves</prenom>
+        </personne>
+        <personne id="Petillon">
+            <nom>Pétillon</nom>
+        </personne>
+    </personnes>
+    
+    <collection>
+        
+        <!-- Retour au collège de Riad Sattouf -->
+        
+        <bd>
+            <titre>Retour au collège</titre>
+            <auteur ref="RSattouf" />
+            <illustrateur ref="RSattouf" />
+            <sortie>2005</sortie>
+            <resume>
+                Avec Retour au collège, Riad Sattouf a eu une grande idée de
+                BD-reportage : investir une classe de troisième dans un collège huppé
+                de Paris. Se présentant comme un écrivain artiste-peintre (ça fait
+                toujours mieux que dessinateur BD !) envoyé par le ministère de
+                l'éducation nationale, Sattouf arrive à rejoindre pour quinze jours
+                une classe de troisième au tempérament explosif. Avec ce séjour, il
+                poursuit ses vieux démons, issus de la pire période de la jeunesse :
+                la préadolescence. « Les noms et physionomies des personnages ont été
+                modifiés. Par contre, les situations et les propos rapportés sont
+                absolument véridiques », peut-on lire dans les premières pages de
+                l'ouvrage. Vu la façon dont Sattouf a croqué les différents profils de
+                la classe, les élèves de troisième C, malgré les changements de prénom
+                et de physionomie, n'auront sans doute aucun mal à se reconnaître.
+            </resume>
+        </bd>
+        
+        <!-- Lanfeust -->
+        
+        <serie>
+            <titreserie>Lanfeust de Troy</titreserie>
+            
+            <bd numero="1" illustration="lanfeustdetroy1.png">
+                <titre>L'ivoire du Magohamoth</titre>
+                <auteur ref="AScotch" />
+                <illustrateur ref="DTarquin" />
+                <sortie>1994-10</sortie>
+                <resume>
+                    Troy est  un monde  fantastique où toute  personne possède  un pouvoir
+                    magique  qui  est  plus  ou moins  utile...   Lanfeust,
+                    forgeron de  son état découvre  qu'il a non  pas un seul  pouvoir mais
+                    tous,  mais  seulement  lorsqu'il   est  en  contact  avec  un  ivoire
+                    particulier.  Il décide alors, sur  le conseil du sage de son village,
+                    de partir pour Eckmül afin de rencontrer le grand conseil...
+                </resume>
+            </bd>
+            
+            <bd numero="2">
+                <titre>Thanos l'incongru</titre>
+                <auteur ref="AScotch" />
+                <illustrateur ref="DTarquin" />
+                <sortie>1995-08</sortie>
+                <resume>
+                    On retrouve  notre fine  équipe dans la  capitale de Troy,  Eckmül, où
+                    elle apprend que Lanfeust  n'est pas le seul à posséder
+                    ce   pouvoir   absolu.    Eh   !   oui  le   méchant   de   l'histoire
+                    (Thanos)  a lui  aussi cette  capacité.  Mais  ces deux
+                    personnages ne  peuvent utiliser le  pouvoir absolu que s'ils  sont en
+                    contact avec de l'ivoire du Magohamoth (monstre légendaire et mythique
+                    source du pouvoir sur Troy).  Et vous pensez bien que cet ivoire ne se
+                    trouve pas dans  toutes les bonnes épiceries.  C'est  pourquoi il leur
+                    faudra récupérer l'épée d'un prince car son pommeau est fait en ivoire
+                    du Magohamot
+                </resume>
+            </bd>
+            
+        </serie>
+        
+        
+        
+        
+        <!-- Le retour à la terre de Larcenet -->
+        
+        <serie>
+            <titreserie>Le retour à la terre</titreserie>
+            <bd numero="1">
+                <titre>La vraie vie</titre>
+                <auteur ref="JYFerri" />
+                <illustrateur ref="Larcenet" />
+                <sortie>2002</sortie>
+                <resume>
+                    Mariette et Manu en avaient marre de la ville. Ils viennent de déménager
+                    à la  campagne. L'air pur, les petits  oiseaux, les champs à  perte de vue et  tout ça...le bonheur,
+                    quoi ? Pas  vraiment !  C'est qu'il n'est pas  évident pour deux citadins accoutumés  au bruit, à la
+                    promiscuité des transports en commun ou des embouteillages, et à la proximité des commerces et lieux
+                    de délassement, de se désintoxiquer de tout cela.
+                </resume>
+            </bd>
+            
+            <bd numero="2">
+                <titre>Les projets</titre>
+                <auteur ref="JYFerri" />
+                <illustrateur ref="Larcenet" />
+                <sortie>2003</sortie>
+                <resume>
+                </resume>
+            </bd>
+            
+            <bd numero="3">
+                <titre>Le vaste monde</titre>
+                <auteur ref="JYFerri" />
+                <illustrateur ref="Larcenet" />
+                <sortie>2004</sortie>
+                <resume>
+                </resume>
+            </bd>
+            
+        </serie>
+        
+        
+        <!-- L'enquête corse de Pétillon -->
+        
+        <bd>
+            <titre>L'enquête corse</titre>
+            <auteur ref="Petillon" />
+            <illustrateur ref="Petillon" />
+            <sortie>2001</sortie>
+            <resume>
+                Une enquête  du détective  Jack Palmer en  Corse ? Explosive,  forcément.  On
+                peut même dire que  Palmer est en plein boum. Trench-coat trop  grand, chapeau mou et regard
+                ahuri, il tente  désespérément de prendre langue avec  un certain Ange Leoni.
+                Pas facile.  D'ailleurs, un des cafés de l'histoire  s'appelle « café motus », et un autre «
+                café  omerta ».  Tout est  dit -  enfin,  façon de  parler. Quand  on lit  Pétillon, il  est
+                difficile de respecter la loi du silence : on a plutôt tendance à hurler de rire...
+            </resume>
+        </bd>
+        
+        
+    </collection>
+    
+</bdtheque>
